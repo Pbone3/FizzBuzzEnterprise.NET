@@ -21,7 +21,6 @@ namespace FizzBuzzEnterprise.NET
         public const int FIZZBUZZENTERPRISE_ITERATIONAMOUNTS = 100;
         public const string FIZZ = "FIZZ";
         public const string BUZZ = "BUZZ";
-
         static void Main()
         {
             IntPtr MEMLOC_MEMTEST = Marshal.AllocHGlobal(sizeof(byte));
